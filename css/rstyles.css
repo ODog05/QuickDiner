@@ -1,0 +1,157 @@
+/* Resturant Styles */
+/* in css */
+
+body {
+	font-family: 'Black Ops One', cursive;
+	margin: 0;
+	padding: 0;
+
+}
+#pageTop {
+
+	width: 100%;
+	height:100px ;
+	background-color:purple ;
+	text-align:center;
+	font-size:3em ;
+	color:black ;
+	padding-top:10% ;
+	
+}
+#menuBar{
+	width:100% ;
+	height:100px ;
+	background-color:blue ;
+	margin:0 ;
+	padding-left: 50px;
+}
+#HomePageSideBar{
+	float:left;
+	width:10% ;
+	height: 600px ;
+	background-color:red; 
+}
+
+.mainDisplay{
+	
+	width: 80%;
+	height: 200px;
+	background-color: white;
+	text-align: center;
+	float: left;
+}
+
+.mainDisplay{
+	
+	width: 80%;
+	height: 200px;
+	background-color: white;
+	text-align: center;
+	float: left;
+
+}
+
+#InteriorSideBar{
+	float:left;
+	width:20% ;
+	height: 1200px ;
+	background-color:brown; 
+}
+
+.MainBreakfastDisplay{
+	background: #ba88a6 url("../images/Chalkboard.jpg");
+	height:1300px ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	
+}
+
+#BreakfastList{
+	padding-top: 20%;
+	background:url("../images/Chalkboard.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 1800px;
+	float:center;
+}
+
+#BreakfastList li{
+	color: white;
+	float: center;
+	font-size: 5.0em;
+	padding-top: 2%;
+	margin-left: 50px;
+	}
+
+#BreakfastList li ol li{
+	font-size: 1.0em;
+	float:left;
+	color: green;
+	padding: 0;
+	margin: 25;
+}
+
+.CenteredList{
+	margin-left: auto;
+	margin-right: auto;
+	width: 70% ;
+}
+
+.menuItem{
+	float: left;
+	width: 19% ;
+	color: white;
+	font-size:2em ;
+	border: 1xp solid red ;
+
+}
+
+.menuList{
+	color: blue;
+	float: left;
+	font-size: 1.0em;
+	padding-top: 2%;
+	margin-left: 10%;
+}
+
+
+
+
+/* unvisited link */
+a:link {
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+    text-decoration: none;
+}
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+    text-decoration: none;
+}
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
+}
+}
+
+/* Resturant Styles */
+/* in css */
+
+body {
+	font-family: 'Black Ops One', cursive;
+	margin: 0;
+	padding: 0;
+
+}
